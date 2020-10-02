@@ -35,5 +35,14 @@ Cast movies and TV from Plex using Google Assistant with Chromecast
 	* Click "Create action"
 	* Click "Continue" and complete the remaining steps to save your webhook
 
+## Usage
+- Logs
+	Logs will show the timestamp of any command which failed at the API level, as well as the exception message related to the failure
+- Substitutions
+	Substitutions will allow you to substitute a particular word or phrase with another, such as the examples below:
+		* Happiness > Happyness
+		* Creep Show > Creepshow
+		* Series > Season
+
 ## YouTube Video
 A YouTube video will be created soon and added to the README.
