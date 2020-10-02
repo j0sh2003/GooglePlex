@@ -37,12 +37,14 @@ Cast movies and TV from Plex using Google Assistant with Chromecast
 
 ## Usage
 - Logs
-	Logs will show the timestamp of any command which failed at the API level, as well as the exception message related to the failure
+	- Logs will show the timestamp of any command which failed at the API level, as well as the exception message related to the failure
 - Substitutions
-	Substitutions will allow you to substitute a particular word or phrase with another, such as the examples below:
-		* Happiness > Happyness
-		* Creep Show > Creepshow
-		* Series > Season
+	- Substitutions will allow you to substitute a particular word or phrase with another, such as the examples below:
+		- Happiness > Happyness
+		- Creep Show > Creepshow
+		- Series > Season
+- Specify video type
+	- You can now begin your command with "Movie" or "Show" to differentiate.  For instance, to play the Show "War of the Worlds" and not the movie with the same title, you can tell the Google Assistant "\[Tell Plex to Play\] Show War of the Worlds \[on Living Room TV\]", where the speech in brackets may vary based on your setup.
 
 ## YouTube Video
 [![Alt text](https://img.youtube.com/vi/8f3mzAZ12Mo/0.jpg)](https://youtu.be/8f3mzAZ12Mo)
