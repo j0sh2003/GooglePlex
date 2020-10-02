@@ -45,4 +45,4 @@ Cast movies and TV from Plex using Google Assistant with Chromecast
 		* Series > Season
 
 ## YouTube Video
-A YouTube video will be created soon and added to the README.
+[![Alt text](https://img.youtube.com/vi/8f3mzAZ12Mo/0.jpg)](https://youtu.be/8f3mzAZ12Mo)
